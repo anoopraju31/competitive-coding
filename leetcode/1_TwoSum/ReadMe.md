@@ -27,3 +27,5 @@ You can return the answer in any order.
 - -109 <= nums[i] <= 1090
 - -109 <= target <= 109
 - Only one valid answer exists.
+
+### Two Pointer method & difference between numbers is stored in a hashmap
