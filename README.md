@@ -9,6 +9,7 @@
 - #49 [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/49_groupAnagram)
 - #76 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/76_Minimum%20WindowSubstring)
 - #125 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/125_ValidPalindrome)
+- #202 [Happy Number](https://leetcode.com/problems/happy-number/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/202_HappyNumber)
 - #136 [Single Number](https://leetcode.com/problems/single-number/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/136_SingleNumber)
 - #334 [Reverse String](https://leetcode.com/problems/reverse-string/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/344_ReverseString)
 - #345 [Reverse Vowels Of A String](https://leetcode.com/problems/reverse-vowels-of-a-string) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/345_ReverseVowelsOfAString)
