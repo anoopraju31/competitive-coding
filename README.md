@@ -9,6 +9,7 @@
 - #20 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/20_ValidParenthese)
 - #49 [Group Anagrams](https://leetcode.com/problems/group-anagrams/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/49_groupAnagram)
 - #76 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/76_Minimum%20WindowSubstring)
+- # 118. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/118_PascalsTriangle)
 - #122 [LeetCode: 122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/122_BestTimeToBuyAndSellStockII)
 - #125 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/125_ValidPalindrome)
 - #202 [Happy Number](https://leetcode.com/problems/happy-number/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/202_HappyNumber)
