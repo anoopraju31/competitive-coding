@@ -6,6 +6,7 @@
 - #5 [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/5_LongestPalindromicSubstring)
 - #11 [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/11_ContainerWithMostWater)
 - #15 [Three Sum](https://leetcode.com/problems/3sum/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/15_3Sum)
+- #20 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/20_ValidParenthese)
 - #49 [Group Anagrams](https://leetcode.com/problems/group-anagrams/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/49_groupAnagram)
 - #76 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/76_Minimum%20WindowSubstring)
 - #122 [LeetCode: 122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) => [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/122_BestTimeToBuyAndSellStockII)
