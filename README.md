@@ -8,6 +8,7 @@
 - #14 [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) >>> [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/14_LongestCommonPrefix)
 - #15 [Three Sum](https://leetcode.com/problems/3sum/) >>> [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/15_3Sum)
 - #20 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) >>> [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/20_ValidParenthese)
+- #21 [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) >>> [solution](leetcode/21_MergeTwoSortedLists/)
 - #49 [Group Anagrams](https://leetcode.com/problems/group-anagrams/) >>> [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/49_groupAnagram)
 - #58 [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) >>> [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/58_LengthOfLastWord)
 - #76 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) >>> [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/76_Minimum%20WindowSubstring)
