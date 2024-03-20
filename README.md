@@ -35,6 +35,7 @@
 - #896 [Monotonic Array](https://leetcode.com/problems/monotonic-array/) >>> [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/896_MonotonicArray)
 - #1323 [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) >>> [solution](leetcode/1323_Maximum69Number/)
 - #1512 [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/) >>> [solution](leetcode/1512_NumberOfGoodPairs/)
+- #1669 [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/description/) >>> [solution](leetcode/1669_MergeInBetweenLinkedLists/)
 - #2126 [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/) >>> [solution](leetcode/2126_DestroyingAsteroids/)
 - #2798 [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/description/) >>> [solution](leetcode/2798_NumberOfEmployeesWhoMetTheTarget/)
 - #3019 [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/description/) >>> [solution](leetcode/3019_NumberOfChangingKeys/)
