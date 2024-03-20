@@ -20,6 +20,7 @@
 - #203 [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) >>> [solution](leetcode/203_RemoveLinkedListElements/)
 - #136 [Single Number](https://leetcode.com/problems/single-number/) >>> [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/136_SingleNumber)
 - #169 [Majority Element](https://leetcode.com/problems/majority-element) >>> [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/169_MajorityElement)
+- #206 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) >>> [solution](leetcode/206_ReverseLinkedList/)
 - #283 [Move Zeroes](https://leetcode.com/problems/move-zeroes) >>> [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/283_MoveZeroes)
 - #334 [Reverse String](https://leetcode.com/problems/reverse-string/) >>> [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/344_ReverseString)
 - #345 [Reverse Vowels Of A String](https://leetcode.com/problems/reverse-vowels-of-a-string) >>> [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/345_ReverseVowelsOfAString)
