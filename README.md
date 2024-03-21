@@ -43,3 +43,4 @@
 40. [Split the Array](https://leetcode.com/problems/split-the-array/description/) : [solution](leetcode/3046_SplitTheArray/)
 41. [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/description/) : [solution](leetcode/3074_AppleRedistributionIntoBoxes/)
 42. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) : [solution](leetcode/64_MinimumPathSum/)
+43. [House Robber](https://leetcode.com/problems/house-robber/) : [solution](leetcode/198_HouseRobber/)
