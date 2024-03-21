@@ -45,3 +45,4 @@
 42. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) : [solution](leetcode/64_MinimumPathSum/)
 43. [House Robber](https://leetcode.com/problems/house-robber/) : [solution](leetcode/198_HouseRobber/)
 44. [Is Subsequence](https://leetcode.com/problems/is-subsequence/) : [solution](leetcode/392_IsSubsequence/)
+45. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) : [solution](leetcode/1137_N-thTribonacciNumber/)
