@@ -42,3 +42,4 @@
 39. [Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/description/) : [solution](leetcode/3019_NumberOfChangingKeys/)
 40. [Split the Array](https://leetcode.com/problems/split-the-array/description/) : [solution](leetcode/3046_SplitTheArray/)
 41. [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/description/) : [solution](leetcode/3074_AppleRedistributionIntoBoxes/)
+42. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) : [solution](leetcode/64_MinimumPathSum/)
