@@ -1,5 +1,8 @@
 ﻿# competitive-coding
 
+### GFG
+1. [Check if array is sorted](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) : [solution](gfg/CheckIfArrayIsSorted/)
+
 ## Leetcode
 1. [Two Sum](https://leetcode.com/problems/two-sum/) : [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/1_TwoSum)
 2. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) : [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/3_LongestSubstringWithoutRepeatingCharacters)
