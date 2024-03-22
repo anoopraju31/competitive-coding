@@ -47,3 +47,4 @@
 44. [Is Subsequence](https://leetcode.com/problems/is-subsequence/) : [solution](leetcode/392_IsSubsequence/)
 45. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) : [solution](leetcode/1137_N-thTribonacciNumber/)
 46. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) : [solution](leetcode/234_PalindromeLinkedList/)
+47. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) : [solution](leetcode/160_IntersectionOfTwoLinkedLists/)
