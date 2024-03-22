@@ -48,3 +48,4 @@
 45. [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) : [solution](leetcode/1137_N-thTribonacciNumber/)
 46. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) : [solution](leetcode/234_PalindromeLinkedList/)
 47. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) : [solution](leetcode/160_IntersectionOfTwoLinkedLists/)
+48. [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/) : [solution](leetcode/3083_ExistenceOfASubstringInAStringAndItsReverse/)
