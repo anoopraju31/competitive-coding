@@ -2,6 +2,7 @@
 
 ### GFG
 1. [Check if array is sorted](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) : [solution](gfg/CheckIfArrayIsSorted/)
+2. [Find the smallest and second smallest element in an array](https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1) : [solution](gfg/FindTheSmallestAndSecondSmallestElementInAnArray/)
 
 ## Leetcode
 1. [Two Sum](https://leetcode.com/problems/two-sum/) : [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/1_TwoSum)
