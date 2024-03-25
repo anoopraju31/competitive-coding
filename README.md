@@ -59,3 +59,4 @@
 52. [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) : [solution](leetcode/2_AddTwoNumbers/)
 53. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) : [solution](leetcode/442_FindAllDuplicatesInAnArray/)
 54. [Arranging Coins](https://leetcode.com/problems/arranging-coins/): [Solution](leetcode/441_ArrangingCoins/)
+55. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) : [solution](leetcode/448_FindAllNumbersDisappearedInAnArray/)
