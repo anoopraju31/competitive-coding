@@ -30,3 +30,14 @@ var strStr = function (haystack, needle) {
 
 	return -1
 }
+
+var strStr = function (haystack, needle) {
+	const n = needle.length
+	const h = haystack.length
+	let sub = ''
+	for (let i = 0; i < h - n + 1; i++) {
+		sub = haystack.substr(i, n)
+		if (sub === needle) return i
+	}
+	return -1
+}
