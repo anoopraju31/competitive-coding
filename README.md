@@ -60,3 +60,4 @@
 53. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) : [solution](leetcode/442_FindAllDuplicatesInAnArray/)
 54. [Arranging Coins](https://leetcode.com/problems/arranging-coins/): [Solution](leetcode/441_ArrangingCoins/)
 55. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) : [solution](leetcode/448_FindAllNumbersDisappearedInAnArray/)
+56. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) : [solution](leetcode/28_FindTheIndexOfTheFirstOccurrenceInAString/)
