@@ -62,3 +62,4 @@
 55. [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) : [solution](leetcode/448_FindAllNumbersDisappearedInAnArray/)
 56. [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) : [solution](leetcode/28_FindTheIndexOfTheFirstOccurrenceInAString/)
 57. [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) : [solution](leetcode/167_TwoSum_II_InputArrayIsSorted/)
+58. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) : [solution](leetcode/41_FirstMissingPositive/)
