@@ -65,3 +65,4 @@
 58. [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) : [solution](leetcode/41_FirstMissingPositive/)
 59. [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) : [solution](leetcode/42_TrappingRainWater/)
 60. [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k) : [solution](leetcode/713_SubarrayProductLessThanK/)
+61. [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) : [solution](leetcode/1209_RemoveAllAdjacentDuplicatesInStringII/)
