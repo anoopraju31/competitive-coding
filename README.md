@@ -17,7 +17,7 @@
 10. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/) : [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/58_LengthOfLastWord)
 11. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) : [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/76_Minimum%20WindowSubstring)
 12. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) : [solution](leetcode/83_RemoveDuplicatesFromSortedList/)
-13. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/118_PascalsTriangle)
+13. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) : [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/118_PascalsTriangle)
 14. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) : [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/122_BestTimeToBuyAndSellStockII)
 15. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) : [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/125_ValidPalindrome)
 16. [Single Number](https://leetcode.com/problems/single-number/) : [solution](https://github.com/anoopraju31/competitive-coding/tree/main/leetcode/136_SingleNumber)
