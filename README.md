@@ -69,3 +69,4 @@
 62. [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency) : [solution](leetcode/2958_LengthOfLongestSubarrayWithAtMostKFrequency/)
 63. [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) : [solution](leetcode/6_ZigzagConversion)
 64. [Baseball Game](https://leetcode.com/problems/baseball-game/) : [solution](leetcode/682_BaseballGame/)
+65. [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) : [solution](leetcode/101_SymmetricTree/)
