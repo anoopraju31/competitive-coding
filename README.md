@@ -76,3 +76,4 @@
 69. [Detect Capital](https://leetcode.com/problems/detect-capital/) : [solution](leetcode/520_DetectCapital/)
 70. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) : [solution](leetcode/209_MinimiumSizeSubarraySum/)
 71. [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) : [solution](leetcode/219_ContainsDuplicateII/)
+72. [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) : [solution](leetcode/2540_MinimiumCommonValue/)
