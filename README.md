@@ -74,3 +74,4 @@
 67. [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) : [solution](leetcode/739_DailyTemperatures/)
 68. [Rotate Array](https://leetcode.com/problems/rotate-array/description) : [solution](leetcode/189_RotateArray)
 69. [Detect Capital](https://leetcode.com/problems/detect-capital/) : [solution](leetcode/520_DetectCapital/)
+70. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) : [solution](leetcode/209_MinimiumSizeSubarraySum/)
