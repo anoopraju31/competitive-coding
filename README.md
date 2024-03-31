@@ -80,3 +80,4 @@
 73. [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) : [solution](leetcode/153_FindMinimiumInRotatedSortedArray/)
 74. [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) : [solution](leetcode/2444_CountSubarraysWithFixedBounds/)
 75. [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) : [solution](leetcode/992_SubarraysWithKDifferentIntegers/)
+76. [Shortest Subarray With OR at Least K I]() : [solution](leetcode/3095_ShortestSubarrayWithORAtLeastKI/)
