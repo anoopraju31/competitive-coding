@@ -87,3 +87,4 @@
 80. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) : [solution](leetcode/19_RemoveNthNodeFromEndOfList/)
 81. [Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/) : [solution](leetcode/2932_MaximumStrongPairXOR_I/)
 82. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) : [solution](leetcode/496_NextGreaterElementI/)
+83. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) : [solution](leetcode/205_IsomorphicStrings/)
