@@ -83,3 +83,4 @@
 76. [Shortest Subarray With OR at Least K I]() : [solution](leetcode/3095_ShortestSubarrayWithORAtLeastKI/)
 77. [Reverse Integer](https://leetcode.com/problems/reverse-integer/) : [solution](leetcode/7_ReverseInteger/)
 78. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) : [solution](leetcode/8_StringToInteger(atoi)/)
+79. [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) : [solution](leetcode/16_3SumClosest/)
