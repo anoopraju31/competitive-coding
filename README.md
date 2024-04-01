@@ -84,3 +84,4 @@
 77. [Reverse Integer](https://leetcode.com/problems/reverse-integer/) : [solution](leetcode/7_ReverseInteger/)
 78. [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/) : [solution](leetcode/8_StringToInteger(atoi)/)
 79. [3Sum Closest](https://leetcode.com/problems/3sum-closest/description/) : [solution](leetcode/16_3SumClosest/)
+80. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) : [solution](leetcode/19_RemoveNthNodeFromEndOfList/)
