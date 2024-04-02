@@ -89,3 +89,4 @@
 82. [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) : [solution](leetcode/496_NextGreaterElementI/)
 83. [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) : [solution](leetcode/205_IsomorphicStrings/)
 84. [Word Pattern](https://leetcode.com/problems/word-pattern/) : [solution](leetcode/290_WordPattern/)
+84. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) : [solution](leetcode/24_SwapNodesInPairs/)
