@@ -91,3 +91,4 @@
 84. [Word Pattern](https://leetcode.com/problems/word-pattern/) : [solution](leetcode/290_WordPattern/)
 84. [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) : [solution](leetcode/24_SwapNodesInPairs/)
 85. [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) : [solution](leetcode/94_BinaryTreeInorderTraversal/)
+86. [Binary Search](https://leetcode.com/problems/binary-search/) : [solution](leetcode/704_BinarySearch/)
