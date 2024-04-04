@@ -99,3 +99,4 @@
 91. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) : [solution](leetcode/152_MaximumProductSubarray/)
 92. [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string) : [solution](leetcode/151_ReverseWordsInAString/)
 93. [Pow(x, n)](https://leetcode.com/problems/powx-n/) : [solution](leetcode/50_Pow(x,%20n)/)
+94. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) : [solution](leetcode/144_BinaryTreePreorderTraversal/)
