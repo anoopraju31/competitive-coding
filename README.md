@@ -101,3 +101,4 @@
 93. [Pow(x, n)](https://leetcode.com/problems/powx-n/) : [solution](leetcode/50_Pow(x,%20n)/)
 94. [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) : [solution](leetcode/144_BinaryTreePreorderTraversal/)
 95. [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) : [solution](leetcode/145_BinaryTreePostorderTraversal/)
+96. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) : [solution](leetcode/34_FindFirstAndLastPositionOfElementInSortedArray/)
