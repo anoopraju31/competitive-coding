@@ -94,3 +94,4 @@
 86. [Binary Search](https://leetcode.com/problems/binary-search/) : [solution](leetcode/704_BinarySearch/)
 87. [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) : [solution](leetcode/33_SearchInRotatedSortedArray/)
 88. [Word Search](https://leetcode.com/problems/word-search) : [solution](leetcode/79_WordSearch/)
+89. [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) : [solution](leetcode/1614_MaximumNestingDepthOfTheParentheses/)
