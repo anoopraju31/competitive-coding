@@ -108,3 +108,4 @@
 100. [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) : [solution](leetcode/222_CountCompleteTreeNodes/)
 101. [Remove Element](https://leetcode.com/problems/remove-element/) : [solution](leetcode/27_RemoveElement/)
 102. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) : [solution](leetcode/26_RemoveDuplicatesFromSortedArray/)
+103. [Rotate List](https://leetcode.com/problems/rotate-list/) : [solution](leetcode/61_RotateList/)
