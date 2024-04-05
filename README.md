@@ -104,3 +104,4 @@
 96. [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) : [solution](leetcode/34_FindFirstAndLastPositionOfElementInSortedArray/)
 97. [Make The String Great](https://leetcode.com/problems/make-the-string-great/) : [solution](leetcode/1544_MakeTheStringGreat)
 98. [Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/) : [solution](leetcode/1550_ThreeConsecutiveOdds/)
+99. [Thousand Separator](https://leetcode.com/problems/thousand-separator) : [solution](leetcode/1556_ThousandSeparator/)
