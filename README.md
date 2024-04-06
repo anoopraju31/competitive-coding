@@ -115,3 +115,4 @@
 107. [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately) : [solution](leetcode/1768_MergeStringsAlternately/)
 108. [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) : [solution](leetcode/605_CanPlaceFlowers/)
 109. [Search Insert Position](https://leetcode.com/problems/search-insert-position/) : [solution](leetcode/35_SearchInsertPosition/)
+110. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) : [solution](leetcode/744_FindSmallestLetterGreaterThanTarget/)
