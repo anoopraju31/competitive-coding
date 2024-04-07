@@ -117,3 +117,4 @@
 110. [Search Insert Position](https://leetcode.com/problems/search-insert-position/) : [solution](leetcode/35_SearchInsertPosition/)
 111. [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) : [solution](leetcode/744_FindSmallestLetterGreaterThanTarget/)
 112. [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) : [solution](leetcode/1351_CountNegativeNumbersInASortedMatrix/)
+113. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) : [solution](leetcode/1431_KidsWithTheGreatestNumberOfCandies/)
