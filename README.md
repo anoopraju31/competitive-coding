@@ -121,3 +121,4 @@
 114. [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) : [solution](leetcode/1071_GreatestCommonDivisorOfStrings/)
 115. [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) : [solution](leetcode/334_IncreasingTripletSubsequence/)
 116. [String Compression](https://leetcode.com/problems/string-compression/description) : [solution](leetcode/443_StringCompression/)
+117. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) : [solution](leetcode/374_GuessNumberHigherOrLower/)
