@@ -119,3 +119,4 @@
 112. [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) : [solution](leetcode/1351_CountNegativeNumbersInASortedMatrix/)
 113. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) : [solution](leetcode/1431_KidsWithTheGreatestNumberOfCandies/)
 114. [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) : [solution](leetcode/1071_GreatestCommonDivisorOfStrings/)
+115. [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) : [solution](leetcode/334_IncreasingTripletSubsequence/)
