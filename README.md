@@ -120,3 +120,4 @@
 113. [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies) : [solution](leetcode/1431_KidsWithTheGreatestNumberOfCandies/)
 114. [Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) : [solution](leetcode/1071_GreatestCommonDivisorOfStrings/)
 115. [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) : [solution](leetcode/334_IncreasingTripletSubsequence/)
+116. [String Compression](https://leetcode.com/problems/string-compression/description) : [solution](leetcode/443_StringCompression/)
