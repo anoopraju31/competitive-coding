@@ -125,3 +125,4 @@
 118. [Ransom Note](https://leetcode.com/problems/ransom-note) : [solution](leetcode/383_RansomNote/)
 119. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) : [solution](leetcode/678_ValidParenthesisString/)
 120. [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) : [solution](leetcode/1700_NumberOfStudentsUnableToEatLunch/)
+121. [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) : [solution](leetcode/1679_MaxNumberOfK-SumPairs/)
