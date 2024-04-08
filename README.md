@@ -124,3 +124,4 @@
 117. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower) : [solution](leetcode/374_GuessNumberHigherOrLower/)
 118. [Ransom Note](https://leetcode.com/problems/ransom-note) : [solution](leetcode/383_RansomNote/)
 119. [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) : [solution](leetcode/678_ValidParenthesisString/)
+120. [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) : [solution](leetcode/1700_NumberOfStudentsUnableToEatLunch/)
