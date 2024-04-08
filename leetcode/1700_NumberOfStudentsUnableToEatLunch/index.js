@@ -20,4 +20,20 @@ var countStudents = function (students, sandwiches) {
 	return 0
 }
 
-console.log(countStudents([1, 1, 0, 0], [0, 1, 0, 1]))
+var countStudents = function (students, sandwiches) {
+	let unableToEat = 0
+
+	while (students.length > 0 && unableToEat < students.length) {
+		if (sandwiches[0] === students[0]) {
+			sandwiches.shift()
+			students.shift()
+			unableToEat = 0
+		} else {
+			let shiftStudent = students.shift()
+			students.push(shiftStudent)
+			unableToEat++
+		}
+	}
+
+	return unableToEat
+}
