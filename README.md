@@ -127,3 +127,4 @@
 120. [Number of Students Unable to Eat Lunch](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch) : [solution](leetcode/1700_NumberOfStudentsUnableToEatLunch/)
 121. [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) : [solution](leetcode/1679_MaxNumberOfK-SumPairs/)
 122. [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets) : [solution](leetcode/2073_TimeNeededToBuyTickets/)
+123. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) : [solution](leetcode/643_MaximumAverageSubarrayI/)
