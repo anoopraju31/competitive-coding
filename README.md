@@ -128,3 +128,4 @@
 121. [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) : [solution](leetcode/1679_MaxNumberOfK-SumPairs/)
 122. [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets) : [solution](leetcode/2073_TimeNeededToBuyTickets/)
 123. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) : [solution](leetcode/643_MaximumAverageSubarrayI/)
+124. [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) : [solution](leetcode/1456_MaximumNumberOfVowelsInASubstringOfGivenLength/)
