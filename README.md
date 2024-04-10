@@ -130,3 +130,4 @@
 123. [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i) : [solution](leetcode/643_MaximumAverageSubarrayI/)
 124. [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length) : [solution](leetcode/1456_MaximumNumberOfVowelsInASubstringOfGivenLength/)
 125. [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) : [solution](leetcode/950_RevealCardsInIncreasingOrder/)
+126. [First Bad Version](https://leetcode.com/problems/first-bad-version) : [solution](leetcode/278_FirstBadVersion/)
