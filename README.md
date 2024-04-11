@@ -132,3 +132,4 @@
 125. [Reveal Cards In Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/) : [solution](leetcode/950_RevealCardsInIncreasingOrder/)
 126. [First Bad Version](https://leetcode.com/problems/first-bad-version) : [solution](leetcode/278_FirstBadVersion/)
 127. [ Jump Game II](https://leetcode.com/problems/jump-game-ii/description/) : [solution](leetcode/45_JumpGameII/) 
+128. [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) : [solution](leetcode/367_ValidPerfectSquare/)
