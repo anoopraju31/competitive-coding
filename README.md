@@ -137,3 +137,4 @@
 130. [Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array) : [solution](/leetcode/1558_MinimumNumbersOfFunctionCallsToMakeTargetArray/)
 131. [Reformat Date](https://leetcode.com/problems/reformat-date/description/) : [solution](leetcode/1507_ReformatDate/)
 132. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) : [solution](leetcode/29_DivideTwoIntegers/)
+134. [Sort List](https://leetcode.com/problems/sort-list) : [solution](leetcode/148_SortList/)
