@@ -31,3 +31,31 @@ var addMinimum = function (word) {
 
 	return count
 }
+
+var addMinimum = function (word) {
+	let neededChars = 0
+
+	for (let i = 0; i < word.length; i++) {
+		let count = 0
+
+		if (word[i] === 'a') {
+			count++
+			i++
+		}
+
+		if (word[i] === 'b') {
+			count++
+			i++
+		}
+
+		if (word[i] === 'c') {
+			count++
+			i++
+		}
+
+		i--
+		neededChars += 3 - count
+	}
+
+	return neededChars
+}
