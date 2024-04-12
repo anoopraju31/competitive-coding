@@ -139,3 +139,4 @@
 132. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) : [solution](leetcode/29_DivideTwoIntegers/)
 134. [Sort List](https://leetcode.com/problems/sort-list) : [solution](leetcode/148_SortList/)
 135. [Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/) : [solution](leetcode/2574_LeftAndRightSumDifferences/)
+136. [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string) : [solution](leetcode/2645_MinimumAdditionsToMakeValidString/)
