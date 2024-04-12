@@ -143,3 +143,4 @@
 137. [Count Primes](https://leetcode.com/problems/count-primes) : [solution](leetcode/204_CountPrimes/)
 138. [Ugly Number](https://leetcode.com/problems/ugly-number/) : [solution](leetcode/263_UglyNumber/)
 139. [Partition List](https://leetcode.com/problems/partition-list/) : [solution](leetcode/86_PartitionList/)
+140. [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) : [solution](leetcode/1876_SubstringsOfSizeThreeWithDistinctCharacters/)
