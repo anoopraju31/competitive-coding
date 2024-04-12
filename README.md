@@ -144,3 +144,4 @@
 137. [Ugly Number](https://leetcode.com/problems/ugly-number/) : [solution](leetcode/263_UglyNumber/)
 138. [Partition List](https://leetcode.com/problems/partition-list/) : [solution](leetcode/86_PartitionList/)
 139. [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) : [solution](leetcode/1876_SubstringsOfSizeThreeWithDistinctCharacters/)
+140. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) : [solution](leetcode/25_ReverseNodesInK-Group/)
