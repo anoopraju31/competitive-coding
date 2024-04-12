@@ -142,3 +142,4 @@
 136. [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string) : [solution](leetcode/2645_MinimumAdditionsToMakeValidString/)
 137. [Count Primes](https://leetcode.com/problems/count-primes) : [solution](leetcode/204_CountPrimes/)
 138. [Ugly Number](https://leetcode.com/problems/ugly-number/) : [solution](leetcode/263_UglyNumber/)
+139. [Partition List](https://leetcode.com/problems/partition-list/) : [solution](leetcode/86_PartitionList/)
