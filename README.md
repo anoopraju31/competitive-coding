@@ -136,3 +136,4 @@
 129. [Remove K Digits](https://leetcode.com/problems/remove-k-digits) : [solution](leetcode/402_RemoveKDigits/)
 130. [Minimum Numbers of Function Calls to Make Target Array](https://leetcode.com/problems/minimum-numbers-of-function-calls-to-make-target-array) : [solution](/leetcode/1558_MinimumNumbersOfFunctionCallsToMakeTargetArray/)
 131. [Reformat Date](https://leetcode.com/problems/reformat-date/description/) : [solution](leetcode/1507_ReformatDate/)
+132. [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) : [solution](leetcode/29_DivideTwoIntegers/)
