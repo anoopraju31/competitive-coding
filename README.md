@@ -150,3 +150,4 @@
 143. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) : [solution](leetcode/724_FindPivotIndex/)
 144. [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) : [solution](leetcode/1991_FindTheMiddleIndexInArray/)
 145. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) : [solution](leetcode/53_MaximumSubarray/)
+146. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) : [solution](leetcode/128_LongestConsecutiveSequence/)
