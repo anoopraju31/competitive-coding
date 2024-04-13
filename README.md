@@ -151,3 +151,4 @@
 144. [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) : [solution](leetcode/1991_FindTheMiddleIndexInArray/)
 145. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) : [solution](leetcode/53_MaximumSubarray/)
 146. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) : [solution](leetcode/128_LongestConsecutiveSequence/)
+147. [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) : [solution](leetcode/2095_DeleteTheMiddleNodeOfALinkedList/)
