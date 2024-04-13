@@ -147,3 +147,4 @@
 140. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) : [solution](leetcode/25_ReverseNodesInK-Group/)
 141. [Maximal Square](https://leetcode.com/problems/maximal-square) : [solution](leetcode/221_MaximalSquare/)
 142. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) : [solution](leetcode/85_MaximalRectangle/)
+143. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) : [solution](leetcode/724_FindPivotIndex/)
