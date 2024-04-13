@@ -146,3 +146,4 @@
 139. [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters) : [solution](leetcode/1876_SubstringsOfSizeThreeWithDistinctCharacters/)
 140. [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) : [solution](leetcode/25_ReverseNodesInK-Group/)
 141. [Maximal Square](https://leetcode.com/problems/maximal-square) : [solution](leetcode/221_MaximalSquare/)
+142. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) : [solution](leetcode/85_MaximalRectangle/)
