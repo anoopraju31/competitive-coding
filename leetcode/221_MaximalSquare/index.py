@@ -1,5 +1,5 @@
 class Solution:
-    def maximalSquare(self, matrix: List[List[str]]) -> int:
+    def maximalSquare(self, matrix):
         rows, cols = len(matrix), len(matrix[0])
         cache = {}
 
