@@ -1,3 +1,5 @@
+// Time: O(n)
+// Space: O(n)
 var singleNumber = function (nums) {
 	const map = new Map()
 
@@ -13,3 +15,13 @@ var singleNumber = function (nums) {
 const nums = [4, 1, 2, 1, 2]
 
 console.log(singleNumber(nums))
+
+// Time: O(n)
+// Space: O(1)
+// Bit Manipulation - XOR (^)
+var singleNumber = function (nums) {
+	let t = 0
+	for (let num of nums) t ^= num
+
+	return t
+}
