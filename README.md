@@ -148,3 +148,4 @@
 141. [Maximal Square](https://leetcode.com/problems/maximal-square) : [solution](leetcode/221_MaximalSquare/)
 142. [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) : [solution](leetcode/85_MaximalRectangle/)
 143. [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) : [solution](leetcode/724_FindPivotIndex/)
+144. [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) : [solution](leetcode/1991_FindTheMiddleIndexInArray/)
