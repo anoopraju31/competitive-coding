@@ -153,3 +153,4 @@
 146. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) : [solution](leetcode/128_LongestConsecutiveSequence/)
 147. [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) : [solution](leetcode/2095_DeleteTheMiddleNodeOfALinkedList/)
 148. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) : [solution](leetcode/1732_FindTheHighestAltitude/)
+149. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) : [solution](leetcode/404_SumOfLeftLeaves/)
