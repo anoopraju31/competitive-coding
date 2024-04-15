@@ -155,3 +155,4 @@
 148. [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude) : [solution](leetcode/1732_FindTheHighestAltitude/)
 149. [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves) : [solution](leetcode/404_SumOfLeftLeaves/)
 150. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) : [solution](leetcode/129_SumRootToLeafNumbers/)
+151. [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) : [solution](leetcode/1742_MaximumNumberOfBallsInABox/)
