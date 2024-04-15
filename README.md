@@ -157,3 +157,4 @@
 150. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) : [solution](leetcode/129_SumRootToLeafNumbers/)
 151. [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) : [solution](leetcode/1742_MaximumNumberOfBallsInABox/)
 152. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) : [solution](leetcode/4_MedianOfTwoSortedArrays/)
+153. [Palindrome Number](https://leetcode.com/problems/palindrome-number) : [solution](leetcode/9_PalindromeNumber/)
