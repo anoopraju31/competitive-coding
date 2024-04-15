@@ -159,3 +159,4 @@
 152. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) : [solution](leetcode/4_MedianOfTwoSortedArrays/)
 153. [Palindrome Number](https://leetcode.com/problems/palindrome-number) : [solution](leetcode/9_PalindromeNumber/)
 154. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) : [solution](leetcode/485_MaxConsecutiveOnes/)
+155. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) : [solution](leetcode/1004_MaxConsecutiveOnesIII/)
