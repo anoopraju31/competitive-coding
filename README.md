@@ -158,3 +158,4 @@
 151. [Maximum Number of Balls in a Box](https://leetcode.com/problems/maximum-number-of-balls-in-a-box/) : [solution](leetcode/1742_MaximumNumberOfBallsInABox/)
 152. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) : [solution](leetcode/4_MedianOfTwoSortedArrays/)
 153. [Palindrome Number](https://leetcode.com/problems/palindrome-number) : [solution](leetcode/9_PalindromeNumber/)
+154. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) : [solution](leetcode/485_MaxConsecutiveOnes/)
