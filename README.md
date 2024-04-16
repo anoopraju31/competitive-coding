@@ -160,3 +160,4 @@
 153. [Palindrome Number](https://leetcode.com/problems/palindrome-number) : [solution](leetcode/9_PalindromeNumber/)
 154. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) : [solution](leetcode/485_MaxConsecutiveOnes/)
 155. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) : [solution](leetcode/1004_MaxConsecutiveOnesIII/)
+156. [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree) : [solution](leetcode/623_AddOneRowToTree/)
