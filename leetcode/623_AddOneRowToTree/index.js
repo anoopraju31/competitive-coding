@@ -12,6 +12,9 @@
  * @param {number} depth
  * @return {TreeNode}
  */
+// BFS
+// Time: O(n)
+// Space: O(n)
 var addOneRow = function (root, val, depth) {
 	if (depth === 1) return new TreeNode(val, root)
 
@@ -39,6 +42,9 @@ var addOneRow = function (root, val, depth) {
 	}
 }
 
+// BFS
+// Time: O(n)
+// Space: O(n)
 var addOneRow = function (root, val, depth) {
 	if (depth === 1) return new TreeNode(val, root)
 
@@ -57,4 +63,27 @@ var addOneRow = function (root, val, depth) {
 		if (node?.left) queue.push({ node: node.left, level: level + 1 })
 		if (node?.right) queue.push({ node: node.right, level: level + 1 })
 	}
+}
+
+// DFS
+// Time: O(n)
+// Space: O(n)
+var addOneRow = function (root, val, depth) {
+	if (depth === 1) return new TreeNode(val, root)
+
+	const dfs = (node, level) => {
+		if (!node) return
+		if (level + 1 === depth && node) {
+			node.left = new TreeNode(val, node?.left, null)
+			node.right = new TreeNode(val, null, node?.right)
+			return
+		}
+
+		dfs(node?.left, level + 1)
+		dfs(node?.right, level + 1)
+	}
+
+	dfs(root, 1)
+
+	return root
 }
