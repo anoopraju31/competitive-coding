@@ -161,3 +161,4 @@
 154. [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) : [solution](leetcode/485_MaxConsecutiveOnes/)
 155. [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) : [solution](leetcode/1004_MaxConsecutiveOnesIII/)
 156. [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree) : [solution](leetcode/623_AddOneRowToTree/)
+157. [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf) : [solution](leetcode/988_SmallestStringStartingFromLeaf/)
