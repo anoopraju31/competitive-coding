@@ -165,3 +165,4 @@
 158. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) : [solution](leetcode/2215_FindTheDifferenceOfTwoArrays/)
 159. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) : [solution](leetcode/1207_UniqueNumberOfOccurrences/)
 160. [Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string) : [solution](leetcode/2390_RemovingStarsFromAString/)
+161. [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) : [solution](leetcode/735_AsteroidCollision/)
