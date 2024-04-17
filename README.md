@@ -163,3 +163,4 @@
 156. [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree) : [solution](leetcode/623_AddOneRowToTree/)
 157. [Smallest String Starting From Leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf) : [solution](leetcode/988_SmallestStringStartingFromLeaf/)
 158. [Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) : [solution](leetcode/2215_FindTheDifferenceOfTwoArrays/)
+159. [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences) : [solution](leetcode/1207_UniqueNumberOfOccurrences/)
