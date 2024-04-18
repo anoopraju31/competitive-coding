@@ -24,7 +24,7 @@ You may print each character of the string in uppercase or lowercase (for exampl
 ### Sample 1:
 | Input       | Output      |
 |-------------|-------------|
-|4            |             |
+| 4           |             |
 | aeiou       | Happy       |
 | abxy        | Sad         |
 | aebcdefghij | Sad         |
