@@ -169,3 +169,4 @@
 162. [Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element) : [solution](leetcode/1493_LongestSubarrayOf1sAfterDeletingOneElement/)
 163. [Island Perimeter](https://leetcode.com/problems/island-perimeter/description) : [solution](leetcode/463_IslandPerimeter)
 164. [Find Right Interval](https://leetcode.com/problems/find-right-interval) : [solution](leetcode/436_FindRightInterval)
+165. [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation) : [solution](leetcode/2601_PrimeSubtractionOperation)
