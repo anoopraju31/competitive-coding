@@ -1,5 +1,8 @@
 ﻿# competitive-coding
 
+### CodeChef
+1. [Chef and Happy String](https://www.codechef.com/practice/course/strings/STRINGS/problems/HAPPYSTR) : [solution](codechef/ChefAndHappyString/)
+
 ### GFG
 1. [Check if array is sorted](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) : [solution](gfg/CheckIfArrayIsSorted/)
 2. [Find the smallest and second smallest element in an array](https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1) : [solution](gfg/FindTheSmallestAndSecondSmallestElementInAnArray/)
