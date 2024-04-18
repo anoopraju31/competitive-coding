@@ -2,19 +2,38 @@
  * @param {number[]} nums
  * @return {number}
  */
+// Hashmap
+// Time: O(n)
+// Space: O(n)
 var numIdenticalPairs = function (nums) {
-	const dist = {}
-
-	for (let n of nums) dist[n] = dist.hasOwnProperty(n) ? dist[n] + 1 : 1
-
+	const map = {}
 	let count = 0
 
-	for (let n of nums) {
-		dist[n] -= 1
-		count += dist[n]
+	for (let num of nums) map[num] = map[num] + 1 || 1
+
+	for (let num of nums) {
+		map[num] -= 1
+		count += map[num]
 	}
 
 	return count
 }
 
-console.log(numIdenticalPairs([1, 2, 3, 1, 1, 3])) // 4
+// Prefix
+// Time: O(n)
+// Space: O(1)
+var numIdenticalPairs = function (nums) {
+	const f = (x, nums) => {
+		let count = 0
+
+		for (let num of nums) if (num == x) count++
+
+		return count
+	}
+
+	let ans = 0
+
+	for (let num of nums) ans += f(num, nums)
+
+	return ans
+}
