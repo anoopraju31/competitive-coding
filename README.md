@@ -173,3 +173,4 @@
 163. [Island Perimeter](https://leetcode.com/problems/island-perimeter/description) : [solution](leetcode/463_IslandPerimeter)
 164. [Find Right Interval](https://leetcode.com/problems/find-right-interval) : [solution](leetcode/436_FindRightInterval)
 165. [Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation) : [solution](leetcode/2601_PrimeSubtractionOperation)
+166. [Number of Islands](https://leetcode.com/problems/number-of-islands) : [solution](leetcode/200_NumberOfIslands/)
