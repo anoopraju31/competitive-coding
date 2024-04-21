@@ -9,14 +9,18 @@ Return the **minimum** number of operations needed.
 
 ### Example 1:
 **Input:** grid = [ [1, 0, 2], [1, 0, 2] ]
+
 **Output:** 0
+
 **Explanation:**
 ![](images/examplechanged.png)
 All the cells in the matrix already satisfy the properties.
 
 ### Example 2:
 **Input:** grid = [ [1, 1, 1], [0, 0, 0] ]
+
 **Output:** 3
+
 **Explanation:**
 ![](images/example21.png)
 The matrix becomes [ [1, 0, 1], [1, 0, 1] ] which satisfies the properties, by doing these 3 operations:
@@ -26,7 +30,9 @@ Change grid[1][2] to 1.
 
 ### Example 3:
 **Input:** grid = [ [1], [2], [3] ]
+
 **Output:** 2
+
 **Explanation:**
 ![](images/changed.png)
 There is a single column. We can change the value to 1 in each cell using 2 operations.
