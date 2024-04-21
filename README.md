@@ -180,3 +180,4 @@
 170. [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii) : [solution](leetcode/3121_CountTheNumberOfSpecialCharactersII)
 171. [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) : [solution](leetcode/1971_FindIfPathExistsInGraph)
 172. [Minimum Number of Operations to Satisfy Conditions](https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions) : [solution](leetcode/3122_MinimumNumberOfOperationsToSatisfyConditions)
+173. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) : [solution](leetcode/1854_MaximumPopulationYear)
