@@ -181,3 +181,4 @@
 171. [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph) : [solution](leetcode/1971_FindIfPathExistsInGraph)
 172. [Minimum Number of Operations to Satisfy Conditions](https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions) : [solution](leetcode/3122_MinimumNumberOfOperationsToSatisfyConditions)
 173. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) : [solution](leetcode/1854_MaximumPopulationYear)
+174. [Open the Lock]() : [solution](leetcode/752_OpenTheLock)
