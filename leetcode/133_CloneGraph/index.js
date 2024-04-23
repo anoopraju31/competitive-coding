@@ -63,3 +63,30 @@ var cloneGraph = function (node) {
 
 	return dfs(node)
 }
+
+// BFS
+var cloneGraph = function (node) {
+	if (!node) return node
+
+	const visited = new Map()
+	const newNode = new Node(node.val)
+	const queue = [node]
+
+	visited.set(node.val, newNode)
+
+	while (queue.length) {
+		const currentNode = queue.shift()
+
+		for (const neighbor of currentNode.neighbors) {
+			if (!visited.has(neighbor.val)) {
+				const newNode = new Node(neighbor.val)
+				visited.set(neighbor.val, newNode)
+				queue.push(neighbor)
+			}
+
+			visited.get(currentNode.val).neighbors.push(visited.get(neighbor.val))
+		}
+	}
+
+	return newNode
+}
