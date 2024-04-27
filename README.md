@@ -6,6 +6,7 @@
 ### GFG
 1. [Check if array is sorted](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) : [solution](gfg/CheckIfArrayIsSorted/)
 2. [Find the smallest and second smallest element in an array](https://www.geeksforgeeks.org/problems/find-the-smallest-and-second-smallest-element-in-an-array3226/1) : [solution](gfg/FindTheSmallestAndSecondSmallestElementInAnArray/)
+3. [Subset Sum Problem](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=bottom_sticky_on_article) : [solution](gfg/SubsetSumProblem/)
 
 ### Leetcode
 1. [Two Sum](https://leetcode.com/problems/two-sum/) : [solution](leetcode/1_TwoSum)
