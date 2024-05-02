@@ -196,3 +196,4 @@
 185. [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative) : [solution](leetcode/2441_LargestPositiveIntegerThatExistsWithItsNegative)
 186. [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) : [solution](leetcode/2000_ReversePrefixOfWord)
 187. [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings) : [solution](leetcode/1915_NumberOfWonderfulSubstrings)
+189. [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k) : [solution](leetcode/2997_MinimumNumberOfOperationsToMakeArrayXOREqualToK)
