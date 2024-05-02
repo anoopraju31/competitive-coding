@@ -195,3 +195,4 @@
 184. [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) : [solution](leetcode/834_SumOfDistancesInTree)
 185. [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative) : [solution](leetcode/2441_LargestPositiveIntegerThatExistsWithItsNegative)
 186. [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word) : [solution](leetcode/2000_ReversePrefixOfWord)
+187. [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings) : [solution](leetcode/1915_NumberOfWonderfulSubstrings)
