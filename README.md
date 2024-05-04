@@ -198,3 +198,4 @@
 187. [Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings) : [solution](leetcode/1915_NumberOfWonderfulSubstrings)
 189. [Minimum Number of Operations to Make Array XOR Equal to K](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k) : [solution](leetcode/2997_MinimumNumberOfOperationsToMakeArrayXOREqualToK)
 190. [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers) : [solution](leetcode/165_CompareVersionNumbers)
+191. [Boats to Save People](https://leetcode.com/problems/boats-to-save-people) : [solution](leetcode/881_BoatsToSavePeople)
