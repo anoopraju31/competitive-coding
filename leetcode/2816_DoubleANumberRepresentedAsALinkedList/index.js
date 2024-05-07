@@ -46,3 +46,21 @@ var doubleIt = function (head) {
 
 	return head
 }
+
+var doubleIt = function (head) {
+	let current = head
+
+	if (head.val >= 5) {
+		let newNode = new ListNode(1)
+		newNode.next = head
+		head = newNode
+	}
+
+	while (current) {
+		current.val =
+			((current.val * 2) % 10) + (current.next && current.next.val >= 5)
+		current = current.next
+	}
+
+	return head
+}
