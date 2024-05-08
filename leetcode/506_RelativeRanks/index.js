@@ -2,6 +2,8 @@
  * @param {number[]} score
  * @return {string[]}
  */
+// Time: O(nlogn)
+// Space: O(n)
 var findRelativeRanks = function (score) {
 	const n = score.length
 	const sortedScores = score
