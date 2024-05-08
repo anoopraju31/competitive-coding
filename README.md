@@ -203,3 +203,4 @@
 192. [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) : [solution](leetcode/237_DeleteNodeInALinkedList)
 193. [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list) : [solution](leetcode/2487_RemoveNodesFromLinkedList)
 194. [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list) : [solution](leetcode/2816_DoubleANumberRepresentedAsALinkedList)
+195. [Relative Ranks](https://leetcode.com/problems/relative-ranks) : [solution](leetcode/506_RelativeRanks)
