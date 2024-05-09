@@ -204,3 +204,4 @@
 193. [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list) : [solution](leetcode/2487_RemoveNodesFromLinkedList)
 194. [Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list) : [solution](leetcode/2816_DoubleANumberRepresentedAsALinkedList)
 195. [Relative Ranks](https://leetcode.com/problems/relative-ranks) : [solution](leetcode/506_RelativeRanks)
+196. [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children) : [solution](leetcode/3075_MaximizeHappinessOfSelectedChildren)
