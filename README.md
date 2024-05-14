@@ -209,3 +209,4 @@
 198. [Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers) : [solution](leetcode/857_MinimumCostToHireKWorkers)
 199. [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) : [solution](leetcode/2373_LargestLocalValuesInAMatrix)
 200. [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix) : [solution](leetcode/861_ScoreAfterFlippingMatrix)
+201. [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) : [solution](leetcode/1219_PathWithMaximumGold)
