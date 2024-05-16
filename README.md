@@ -211,3 +211,4 @@
 200. [Score After Flipping Matrix](https://leetcode.com/problems/score-after-flipping-matrix) : [solution](leetcode/861_ScoreAfterFlippingMatrix)
 201. [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold) : [solution](leetcode/1219_PathWithMaximumGold)
 202. [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) [solution](leetcode/2812_FindTheSafestPathInAGrid)
+203. [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree) : [solution](leetcode/2331_EvaluateBooleanBinaryTree)
