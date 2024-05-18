@@ -213,3 +213,4 @@
 202. [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/) [solution](leetcode/2812_FindTheSafestPathInAGrid)
 203. [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree) : [solution](leetcode/2331_EvaluateBooleanBinaryTree)
 204. [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value) : [solution](leetcode/1325_DeleteLeavesWithAGivenValue)
+205. [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree) : [solution](leetcode/979_DistributeCoinsInBinaryTree)
