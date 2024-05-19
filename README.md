@@ -215,3 +215,4 @@
 204. [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value) : [solution](leetcode/1325_DeleteLeavesWithAGivenValue)
 205. [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree) : [solution](leetcode/979_DistributeCoinsInBinaryTree)
 206. [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values) : [solution](leetcode/3068_FindTheMaximumSumOfNodeValues)
+207. [Special Array I](https://leetcode.com/problems/special-array-i) : [solution](leetcode/3151_SpecialArrayI)
