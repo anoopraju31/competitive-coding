@@ -216,3 +216,4 @@
 205. [Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree) : [solution](leetcode/979_DistributeCoinsInBinaryTree)
 206. [Find the Maximum Sum of Node Values](https://leetcode.com/problems/find-the-maximum-sum-of-node-values) : [solution](leetcode/3068_FindTheMaximumSumOfNodeValues)
 207. [Special Array I](https://leetcode.com/problems/special-array-i) : [solution](leetcode/3151_SpecialArrayI)
+208. [Special Array II](https://leetcode.com/problems/special-array-ii/) : [solution](leetcode/3152_SpecialArrayII)
