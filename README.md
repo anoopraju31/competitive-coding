@@ -218,3 +218,4 @@
 207. [Special Array I](https://leetcode.com/problems/special-array-i) : [solution](leetcode/3151_SpecialArrayI)
 208. [Special Array II](https://leetcode.com/problems/special-array-ii/) : [solution](leetcode/3152_SpecialArrayII)
 209. [Subsets](https://leetcode.com/problems/subsets) : [solution](leetcode/78_Subsets)
+210. [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) : [solution](leetcode/1863_SumOfAllSubsetXORTotals)
