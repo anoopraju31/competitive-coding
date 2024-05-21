@@ -220,3 +220,4 @@
 209. [Subsets](https://leetcode.com/problems/subsets) : [solution](leetcode/78_Subsets)
 210. [Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals) : [solution](leetcode/1863_SumOfAllSubsetXORTotals)
 211. [Add Digits](https://leetcode.com/problems/add-digits) : [solution](leetcode/258_AddDigits)
+212. [Base 7](https://leetcode.com/problems/base-7) : [solution](leetcode/504_Base7)
