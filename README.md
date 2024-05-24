@@ -223,3 +223,4 @@
 212. [Base 7](https://leetcode.com/problems/base-7) : [solution](leetcode/504_Base7)
 213. [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) : [solution](leetcode/131_PalindromePartitioning)
 214. [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets) : [solution](leetcode/2597_TheNumberOfBeautifulSubsets)
+215. [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters) : [solution](leetcode/1255_MaximumScoreWordsFormedbyLetters)
