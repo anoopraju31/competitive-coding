@@ -225,3 +225,4 @@
 214. [The Number of Beautiful Subsets](https://leetcode.com/problems/the-number-of-beautiful-subsets) : [solution](leetcode/2597_TheNumberOfBeautifulSubsets)
 215. [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters) : [solution](leetcode/1255_MaximumScoreWordsFormedbyLetters)
 216. [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii) : [solution](leetcode/552_StudentAttendanceRecordII)
+217. [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x) : [solution](leetcode/1608_SpecialArrayWithXElementsGreaterThanOrEqualX)
