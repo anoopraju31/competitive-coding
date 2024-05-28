@@ -228,3 +228,4 @@
 217. [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x) : [solution](leetcode/1608_SpecialArrayWithXElementsGreaterThanOrEqualX)
 218. [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) : [solution](leetcode/1208_GetEqualSubstringsWithinBudget)
 219. [Word Break II](https://leetcode.com/problems/word-break-ii) : [solution](leetcode/140_WordBreakII)
+220. [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice) : [solution](leetcode/3158_FindIheXOROfNumbersWhichAppearTwice)
