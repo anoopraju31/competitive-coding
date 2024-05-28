@@ -226,3 +226,4 @@
 215. [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters) : [solution](leetcode/1255_MaximumScoreWordsFormedbyLetters)
 216. [Student Attendance Record II](https://leetcode.com/problems/student-attendance-record-ii) : [solution](leetcode/552_StudentAttendanceRecordII)
 217. [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x) : [solution](leetcode/1608_SpecialArrayWithXElementsGreaterThanOrEqualX)
+218. [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget) : [solution](leetcode/1208_GetEqualSubstringsWithinBudget)
