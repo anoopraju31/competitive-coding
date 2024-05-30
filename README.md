@@ -231,3 +231,4 @@
 220. [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice) : [solution](leetcode/3158_FindIheXOROfNumbersWhichAppearTwice)
 221. [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array) : [solution](leetcode/3159_FindOccurrencesOfAnElementInAnArray)
 222. [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) : [solution](leetcode/1404_NumberOfStepsToReduceANumberInBinaryRepresentationToOne)
+223. [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor) : [solution](leetcode/1442_CountTripletsThatCanFormTwoArraysOfEqualXOR)
