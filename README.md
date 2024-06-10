@@ -236,4 +236,5 @@
 225. [Find Common Characters](https://leetcode.com/problems/find-common-characters) : [Solution](leetcode/1002_FindCommonCharacters)
 226. [Hand of Straights](https://leetcode.com/problems/hand-of-straights) : [solution](leetcode/846_HandOfStraights)
 227. [Replace Words](https://leetcode.com/problems/replace-words) : [solution](leetcode/648_ReplaceWords)
-228. [Continuous Subarray Sum]() : [solution](leetcode/523_ContinuousSubarraySum)
+228. [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum) : [solution](leetcode/523_ContinuousSubarraySum)
+229. [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) : [solution](leetcode/974_SubarraySumsDivisibleByK)
