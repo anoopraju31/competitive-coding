@@ -234,3 +234,4 @@
 223. [Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor) : [solution](leetcode/1442_CountTripletsThatCanFormTwoArraysOfEqualXOR)
 224. [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence) : [solution](leetcode/2486_AppendCharactersToStringToMakeSubsequence)
 225. [Find Common Characters](https://leetcode.com/problems/find-common-characters) : [Solution](leetcode/1002_FindCommonCharacters)
+226. [Hand of Straights](https://leetcode.com/problems/hand-of-straights) : [solution](leetcode/846_HandOfStraights)
