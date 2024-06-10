@@ -20,7 +20,7 @@
 9. [Group Anagrams](https://leetcode.com/problems/group-anagrams/) : [solution](leetcode/49_groupAnagram)
 10. [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) : [solution](leetcode/58_LengthOfLastWord)
 11. [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) : [solution](leetcode/76_Minimum%20WindowSubstring)
-12. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) : [solution](leetcode/83_RemoveDuplicatesFromSortedList/)
+`12. [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) : [solution](leetcode/83_RemoveDuplicatesFromSortedList/)`
 13. [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) : [solution](leetcode/118_PascalsTriangle)
 14. [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) : [solution](leetcode/122_BestTimeToBuyAndSellStockII)
 15. [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) : [solution](leetcode/125_ValidPalindrome)
@@ -235,3 +235,4 @@
 224. [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence) : [solution](leetcode/2486_AppendCharactersToStringToMakeSubsequence)
 225. [Find Common Characters](https://leetcode.com/problems/find-common-characters) : [Solution](leetcode/1002_FindCommonCharacters)
 226. [Hand of Straights](https://leetcode.com/problems/hand-of-straights) : [solution](leetcode/846_HandOfStraights)
+227. [Replace Words](https://leetcode.com/problems/replace-words) : [solution](leetcode/648_ReplaceWords)
