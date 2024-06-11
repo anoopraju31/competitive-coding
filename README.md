@@ -240,3 +240,4 @@
 229. [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k) : [solution](leetcode/974_SubarraySumsDivisibleByK)
 230. [Height Checker](https://leetcode.com/problems/height-checker) : [solution](leetcode/1051_HeightChecker)
 231. [Relative Sort Array](https://leetcode.com/problems/relative-sort-array) : [solution](leetcode/1122_RelativeSortArray)
+232. [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) : [solution](leetcode/2824_CountPairsWhoseSumIsLessThanTarget)
