@@ -242,3 +242,4 @@
 231. [Relative Sort Array](https://leetcode.com/problems/relative-sort-array) : [solution](leetcode/1122_RelativeSortArray)
 232. [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target) : [solution](leetcode/2824_CountPairsWhoseSumIsLessThanTarget)
 233. [Sort Colors](https://leetcode.com/problems/sort-colors) : [solution](leetcode/75_SortColors)
+234. [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) : [solution](leetcode/2037_MinimumNumberOfMovesToSeatEveryone)
