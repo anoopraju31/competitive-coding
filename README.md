@@ -244,3 +244,4 @@
 233. [Sort Colors](https://leetcode.com/problems/sort-colors) : [solution](leetcode/75_SortColors)
 234. [Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone) : [solution](leetcode/2037_MinimumNumberOfMovesToSeatEveryone)
 235. [Minimum Increment to Make Array Unique](https://leetcode.com/problems/minimum-increment-to-make-array-unique) : [solution](leetcode/945_MinimumIncrementToMakeArrayUnique)
+236. [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) : [leetcode/633_SumOfSquareNumbers]
