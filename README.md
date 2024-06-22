@@ -249,3 +249,4 @@
 238. [Patching Array](https://leetcode.com/problems/patching-array) : [solution](leetcode/330_PatchingArray)
 239. [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work) : [solution](leetcode/826_MostProfitAssigningWork)
 240. [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) : [solution](leetcode/1482_MinimumNumberOfDaysToMakeMBouquets)
+241. [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls) : [solution](leetcode/1552_MagneticForceBetweenTwoBalls)
