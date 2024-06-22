@@ -251,3 +251,4 @@
 240. [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) : [solution](leetcode/1482_MinimumNumberOfDaysToMakeMBouquets)
 241. [Magnetic Force Between Two Balls](https://leetcode.com/problems/magnetic-force-between-two-balls) : [solution](leetcode/1552_MagneticForceBetweenTwoBalls)
 242. [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) : [solution](leetcode/1248_CountNumberOfNiceSubarrays)
+243. [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner) : [solution](leetcode/1052_GrumpyBookstoreOwner)
