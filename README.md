@@ -247,3 +247,5 @@
 236. [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers) : [leetcode/633_SumOfSquareNumbers]
 237. [IPO](https://leetcode.com/problems/ipo) : [solution](leetcode/502_IPO)
 238. [Patching Array](https://leetcode.com/problems/patching-array) : [solution](leetcode/330_PatchingArray)
+239. [Most Profit Assigning Work](https://leetcode.com/problems/most-profit-assigning-work) : [solution](leetcode/826_MostProfitAssigningWork)
+240. [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets) : [solution](leetcode/1482_MinimumNumberOfDaysToMakeMBouquets)
